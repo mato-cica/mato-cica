@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mato-cica
+- 👋 Hi, I’m Mato Cica.
 - 👀 I’m interested in embedded systems.
 - 🌱 I’m currently learning embedded linux.
 - 💞️ I’m looking to collaborate on ...
